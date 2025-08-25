@@ -15,5 +15,5 @@ DPO optimizes the model to prefer “chosen” responses over “rejected” one
 ### 📄 References & Resources
 - **PDF Guide:** [AI VIETNAM](https://www.facebook.com/share/16UN8WJ5Qu/)  
 - **Source Code:** [https://github.com/ThuanNaN/aio2024-chatbot-llm-rlhf](https://github.com/ThuanNaN/aio2024-chatbot-llm-rlhf/tree/main/notebooks)  
-- **Reference Reading:** [Medium Article](https://medium.com/@lmpo/direct-preference-optimization-a-novel-approach-to-language-model-alignment-1f829d4ac306)  
+- **Reference Reading:** [Medium Article](https://medium.com/@lmpo/direct-preference-optimization-a-novel-approach-to-language-model-alignment-1f829d4ac306), [Blog](https://chanys.github.io/dpo)  
 - **Step-by-step DPO Implementation:** [https://github.com/0xallam/Direct-Preference-Optimization](https://github.com/0xallam/Direct-Preference-Optimization)  
